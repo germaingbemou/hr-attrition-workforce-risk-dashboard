@@ -74,12 +74,14 @@ HR should prioritize retention efforts around:
 
 \- HR Analytics Dataset
 
+## Dashboard Preview
 
+![Dashboard Preview](images/dashboard_preview.png)
 
 \## Project Files
 - `dashboard/HR_Attrition_Workforce_Risk_Dashboard.twbx` — Tableau packaged workbook
 - `dashboard/dashboard_screenshot.png` — Final dashboard image
 - `data/HR_Employee_Attrition_Clean.csv` — Cleaned source dataset
 - `images/dashboard_preview.png` — Dashboard preview image for GitHub README
-png` — Dashboard preview image for GitHub README
+
 
