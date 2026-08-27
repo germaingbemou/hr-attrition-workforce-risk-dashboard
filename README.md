@@ -20,7 +20,7 @@ The analysis focuses on job role, overtime, age group, and income band to unders
 
 Which employee groups are most at risk of leaving, and where should HR focus retention efforts?
 
-
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/germaingbemou/viz/HRAttritionWorkforceRiskDashboard/HRAttritionWorkforceRiskDashboard)
 
 \## Dashboard Preview
 
