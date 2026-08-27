@@ -26,7 +26,7 @@ Which employee groups are most at risk of leaving, and where should HR focus ret
 
 
 
-!\[Dashboard Preview](images/dashboard\_preview.png)
+!\[Dashboard Preview](images/dashboard_preview.png)
 
 
 
@@ -77,13 +77,7 @@ HR should prioritize retention efforts around:
 
 
 \## Project Files
-
-
-
-\- `dashboard/HR\_Attrition\_Workforce\_Risk\_Dashboard.twbx` — Tableau packaged workbook
-
-\- `dashboard/dashboard\_screenshot.png` — Final dashboard image
-
-\- `data/HR\_Employee\_Attrition\_Clean.csv` — Cleaned source dataset
-- 'C:\PORTFOLIO\IBM HR Analytics Employee Attrition & Performance\hr-attrition-workforce-risk-dashboard\images/dashboard_preview.png` — Dashboard preview image for GitHub README
-
+- `dashboard/HR_Attrition_Workforce_Risk_Dashboard.twbx` — Tableau packaged workbook
+- `dashboard/dashboard_screenshot.png` — Final dashboard image
+- `data/HR_Employee_Attrition_Clean.csv` — Cleaned source dataset
+- `images/dashboard_preview.png` — Dashboard preview image for GitHub README
