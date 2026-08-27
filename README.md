@@ -26,7 +26,7 @@ Which employee groups are most at risk of leaving, and where should HR focus ret
 
 
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 ![Dashboard Preview](images/dashboard_preview.png)
 
 
