@@ -85,6 +85,5 @@ HR should prioritize retention efforts around:
 \- `dashboard/dashboard\_screenshot.png` — Final dashboard image
 
 \- `data/HR\_Employee\_Attrition\_Clean.csv` — Cleaned source dataset
-
-\- `images/dashboard\_preview.png` — Dashboard preview image for GitHub README
+- 'C:\PORTFOLIO\IBM HR Analytics Employee Attrition & Performance\hr-attrition-workforce-risk-dashboard\images/dashboard_preview.png` — Dashboard preview image for GitHub README
 
